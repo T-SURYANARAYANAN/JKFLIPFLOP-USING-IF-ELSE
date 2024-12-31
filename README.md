@@ -49,16 +49,16 @@ Step-6 Run the program
 
 
 ### PROGRAM
-![Screenshot 2024-12-19 215322](https://github.com/user-attachments/assets/15ebe854-476e-459d-856f-14e38fbafff9)
+![image](https://github.com/user-attachments/assets/db983a4a-a180-4199-b216-82c5cd6d04ae)
 
 
 
 ### RTL LOGIC FOR FLIPFLOPS
-![Screenshot 2024-12-19 215500](https://github.com/user-attachments/assets/eb1260df-1828-437e-9387-7362d7019b88)
+![image](https://github.com/user-attachments/assets/5b968b12-578b-47fc-9035-8e9233deffda)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
-![image](https://github.com/user-attachments/assets/0b3c3718-95ba-406e-bee2-6e2528d388ae)
+![image](https://github.com/user-attachments/assets/6871e93f-92e5-4490-b653-993de8bfabfb)
 
 
 ### RESULTS
